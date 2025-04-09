@@ -1,6 +1,6 @@
 # mi-primer-repo
 
-## Información del desarrollador
+## Información
 
 **Nombre:** Antonio Valderrama.
 **Ciclo Formativo:** Administración de Sistemas Informáticos en Red.
